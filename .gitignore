@@ -16,7 +16,6 @@ ENV/
 
 # Data and Logs
 *.jsonl
-*.csv
 *.log
 *.sqlite
 
