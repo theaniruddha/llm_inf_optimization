@@ -8,3 +8,26 @@ wheels/
 
 # Virtual environments
 .venv
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Data and Logs
+*.jsonl
+*.csv
+*.log
+*.sqlite
+
+# AI/ML Weights (Large Files)
+*.pt
+*.safetensors
+*.bin
+*.onnx
+
+# System & IDE
+.DS_Store
+.vscode/
+.idea/
+__pycache__/
